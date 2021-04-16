@@ -10,7 +10,7 @@
     "express": "4.13.4",
     "prompt": "1.0.0",
     "sjcl": "1.0.3",
-    "stellar-sdk": "git+https://github.com/atticlab/smart-sdk-js.git"
+    "stellar-sdk": "git+https://github.com/SudaPort/smart-sdk-js.git"
   },
   "devDependencies": {},
   "scripts": {
