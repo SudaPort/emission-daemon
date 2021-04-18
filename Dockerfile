@@ -1,5 +1,5 @@
 FROM node:7.2
-
+RUN npm install --global gulp-cli
 ADD ./app /app
 
 WORKDIR /app
